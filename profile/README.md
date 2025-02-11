@@ -2,7 +2,7 @@
 
 **Just-DNA-Seq** is an open-source personal genomics platform designed to unlock the secrets of your DNA. We empower you with transparent insights into your genetic predispositions—covering longevity, health risks, and drug responses—so you can make informed decisions about your well-being.
 
-## What We Offer
+## Our Approach
 
 - **Personalized Genomic Reports:**  
   Upload your VCF files to generate detailed analyses on longevity-associated variants, disease risks, polygenic risk scores (PRS), and pharmacogenetics.
@@ -53,7 +53,13 @@
 
 ## Interesting Fact
 
-Majority of Just-DNA-Seq core developers also contribute to [Longevity Genie](https://github.com/longevity-genie)), an Open-source AI assistant for health, genetics, and longevity research
+The majority of Just-DNA-Seq core developers also contribute to [Longevity Genie](https://github.com/longevity-genie)), an Open-source AI assistant for health, genetics, and longevity research
+
+## Connect & Collaborate
+
+- **Website:** [just-dna.life](https://just-dna.life/)
+- **Telegram:** [Join our Telegram group](https://t.me/just_dna_seq)
+- **Preprint:** [Read our preprint on arXiv](https://arxiv.org/abs/2403.19087)
 
 ## Supporting Organizations
 
@@ -67,3 +73,5 @@ The project is supported by:
 Whether you're a developer, researcher, or simply curious about your genetic blueprint, we welcome your contributions and feedback. Explore our repositories, join the discussion, and help us democratize personal genomics!
 
 *Unlock your genetic potential with transparency and confidence—welcome to Just-DNA-Seq!*
+
+
