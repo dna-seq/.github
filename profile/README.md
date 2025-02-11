@@ -15,34 +15,51 @@
 
 ## Explore Our Repositories
 
-### Core Analysis Modules
+<details>
+  <summary>Core Analysis Modules</summary>
+
 - [oakvar-longevity](https://github.com/dna-seq/oakvar-longevity) – OakVar modules for longevity and health risk analysis.
 - [longevity2reporter](https://github.com/dna-seq/longevity2reporter) – Generates comprehensive longevity reports.
 - [just_longevitymap](https://github.com/dna-seq/just_longevitymap) – Leverages curated data from LongevityMap.
 - [just_prs](https://github.com/dna-seq/just_prs) – Calculates polygenic risk scores (PRS) for various traits.
 - [just_drugs](https://github.com/dna-seq/just_drugs) – Analyzes pharmacogenetics for drug efficacy and side effects.
+</details>
 
-### Health & Disease Specific Modules
+<details>
+  <summary>Health & Disease Specific Modules</summary>
+
 - [just_cancer](https://github.com/dna-seq/just_cancer) – Analyzes germline cancer risks.
 - [just_cardio](https://github.com/dna-seq/just_cardio) – Evaluates hereditary cardiovascular disease risks.
 - [just_coronary](https://github.com/dna-seq/just_coronary) – Assesses coronary artery disease risks.
 - [just_lipidmetabolism](https://github.com/dna-seq/just_lipidmetabolism) – Explores lipid metabolism disorders.
 - [just_thrombophilia](https://github.com/dna-seq/just_thrombophilia) – Evaluates thrombophilia predispositions.
+</details>
 
-### Experimental & Specialized Modules
+<details>
+  <summary>Experimental & Specialized Modules</summary>
+
 - [superhumanreporter](https://github.com/dna-seq/superhumanreporter) – Reports on rare "superhuman" gene variants.
 - [just_superhuman](https://github.com/dna-seq/just_superhuman) – Identifies exceptional "superhuman" SNPs.
+</details>
 
-### Bioinformatics Pipelines & Advanced Tools
+<details>
+  <summary>Bioinformatics Pipelines & Advanced Tools</summary>
+
 - [dna-seq](https://github.com/dna-seq/dna-seq) – WDL pipelines for sequencing data processing.
 - [neural_networks](https://github.com/dna-seq/neural_networks) – Deep learning models for predicting genetic phenotypes.
+</details>
 
-### Websites & Documentation
+<details>
+  <summary>Websites & Documentation</summary>
+
 - [dna-seq.github.io](https://github.com/dna-seq/dna-seq.github.io) – Official project website.
 - [report_example](https://github.com/dna-seq/report_example) – Example analysis reports.
 - [just-dna-seq-docs](https://github.com/dna-seq/just-dna-seq-docs) – Comprehensive documentation and guides.
+</details>
 
-### Auxiliary & Support Tools
+<details>
+  <summary>Auxiliary & Support Tools</summary>
+
 - [my_genes_and_longevity_comic](https://github.com/dna-seq/my_genes_and_longevity_comic) – A fun comic explaining genetics and longevity.
 - [containers](https://github.com/dna-seq/containers) – Docker containers for our workflows.
 - [modules-preprocessing](https://github.com/dna-seq/modules-preprocessing) – Tools for data cleaning and preparation.
@@ -50,10 +67,11 @@
 - [stroke_prs](https://github.com/dna-seq/stroke_prs) & [prs](https://github.com/dna-seq/prs) – Projects focusing on polygenic risk score calculations.
 - [gero-drugs-module](https://github.com/dna-seq/gero-drugs-module) – Early-stage module for drug-related genetic analysis.
 - [longevity-annotator](https://github.com/dna-seq/longevity-annotator) – Archive of legacy modules for reference.
+</details>
 
 ## Interesting Fact
 
-The majority of Just-DNA-Seq core developers also contribute to [Longevity Genie](https://github.com/longevity-genie)), an Open-source AI assistant for health, genetics, and longevity research
+The majority of Just-DNA-Seq core developers also contribute to [Longevity Genie](https://github.com/longevity-genie), an open-source AI assistant for health, genetics, and longevity research.
 
 ## Connect & Collaborate
 
@@ -73,5 +91,3 @@ The project is supported by:
 Whether you're a developer, researcher, or simply curious about your genetic blueprint, we welcome your contributions and feedback. Explore our repositories, join the discussion, and help us democratize personal genomics!
 
 *Unlock your genetic potential with transparency and confidence—welcome to Just-DNA-Seq!*
-
-
